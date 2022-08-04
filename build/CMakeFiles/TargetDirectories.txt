@@ -1,0 +1,3 @@
+/mnt/e/DSA prj/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/DSA prj/build/CMakeFiles/edit_cache.dir
+/mnt/e/DSA prj/build/CMakeFiles/app.dir

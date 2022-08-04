@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/graph.hpp
+vector
+-
+iostream
+-
+string
+-
+climits
+-
+
+/mnt/e/DSA prj/src/main.cpp
+iostream
+-
+vector
+-
+climits
+-
+graph.hpp
+/mnt/e/DSA prj/src/graph.hpp
+
